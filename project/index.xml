@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Weijiang Xiong</title>
+    <link>https://weijiang-xiong.github.io/project/</link>
+      <atom:link href="https://weijiang-xiong.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 20:58:04 +0800</lastBuildDate>
+    <image>
+      <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://weijiang-xiong.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Course</title>
+      <link>https://weijiang-xiong.github.io/project/deep-learning-course/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/deep-learning-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL with Pytorch</title>
+      <link>https://weijiang-xiong.github.io/project/learn-pytorch/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/learn-pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverted Pendulum</title>
+      <link>https://weijiang-xiong.github.io/project/inverted-pendulum/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/inverted-pendulum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalman Filter</title>
+      <link>https://weijiang-xiong.github.io/project/kalman-filter/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/kalman-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCB Design</title>
+      <link>https://weijiang-xiong.github.io/project/pcb-design/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/pcb-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PEB in PUMA</title>
+      <link>https://weijiang-xiong.github.io/project/peb-puma/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/peb-puma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supply Station</title>
+      <link>https://weijiang-xiong.github.io/project/supply-station/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/supply-station/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

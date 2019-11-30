@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Weijiang Xiong</title>
+    <link>https://weijiang-xiong.github.io/publication_types/2/</link>
+      <atom:link href="https://weijiang-xiong.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 21:00:43 +0800</lastBuildDate>
+    <image>
+      <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://weijiang-xiong.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>SASR: Surrounding-Aware Correlation Filter for UAV Tracking with Selective Spatial Regularization</title>
+      <link>https://weijiang-xiong.github.io/publication/sasr/</link>
+      <pubDate>Tue, 05 Nov 2019 21:00:43 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/publication/sasr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
