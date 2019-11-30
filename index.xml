@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>SASR: Surrounding-Aware Correlation Filter for UAV Tracking with Selective Spatial Regularization</title>
+      <title>Surrounding-Aware Correlation Filter for UAV Tracking with Selective Spatial Regularization</title>
       <link>https://weijiang-xiong.github.io/publication/sasr/</link>
       <pubDate>Tue, 05 Nov 2019 21:00:43 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/publication/sasr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain Reaction</title>
+      <link>https://weijiang-xiong.github.io/project/chain-reaction/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/chain-reaction/</guid>
       <description></description>
     </item>
     
@@ -77,32 +85,11 @@
     </item>
     
     <item>
-      <title>My Article</title>
-      <link>https://weijiang-xiong.github.io/post/my-article-name/</link>
+      <title>Online courses I&#39;ve attended</title>
+      <link>https://weijiang-xiong.github.io/post/ocw/</link>
       <pubDate>Tue, 05 Nov 2019 20:09:03 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/post/my-article-name/</guid>
-      <description>&lt;p&gt;In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.&lt;/p&gt;
-
-&lt;p&gt;In the 21st century the live music stream is far more important than the recordings. Creating recordings is much cheaper and stage performances are expensive. Musicians usually create their music, also register it as a music work and offer it to the public on an online portfolio of mp3 downloads, YouTube and music streams.  Often they are booked for their first live performance after publishing a recording.&lt;/p&gt;
-
-&lt;p&gt;What does it mean for the musician and the manager?  First and foremost that traditional career development strategies do not work anymore. A convincing stage performance is mandatory with a good touring strategy.  Recordings are often not profitable, but equally important in building the audience. Making the recording stream a revenue stream instead of the cost stream requires a very good understanding of the costs and benefits of the different digital channels. CEEMID also contains market information on these issues.&lt;/p&gt;
-
-&lt;p&gt;Career information in CEEMID&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Milestones of the musician’s career&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Level of professionalization, secondary career paths&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Income level and basic live standards information&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Production and concert volumes&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Revenue breakup in all the three major income streams, i.e. publishing, recording and live.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The data is available for Croatia, Hungary and Slovakia. Breakup by genre, gender, birth year, age cohort, capital  / countryside is also possible.  Similar surveys are being conducted in the film production industry.&lt;/p&gt;
-</description>
+      <guid>https://weijiang-xiong.github.io/post/ocw/</guid>
+      <description></description>
     </item>
     
   </channel>
