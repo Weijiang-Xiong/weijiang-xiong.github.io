@@ -17,7 +17,15 @@
       <link>https://weijiang-xiong.github.io/publication/sasr/</link>
       <pubDate>Tue, 05 Nov 2019 21:00:43 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/publication/sasr/</guid>
-      <description></description>
+      <description>&lt;p&gt;This paper corresponds to the research project I&amp;rsquo;ve done in Vision4Robotics Group.&lt;/p&gt;
+
+&lt;p&gt;Visual tracking means to estimate the trajectory of an arbitrary object in a video, given the bounding box of the object in the first frame.
+I reviewed the development of the state-of-the-art algorithms, and was soon attracted by the elegant mathematical formula and superlative performance of &amp;ldquo;Correlation Filter-based methods&amp;rdquo;.
+Although I quickly had a new idea, things did not go out smoothly as the framework I designed did not work at first.
+Nevertheless, I dived deep into the formulas for an answer.
+Through days of analysis, inside the matrices and vectors, I found an implicit incompatibility of two modules in my framework.
+After solving it, rich experiments on UAV tracking videos demonstrated the good tracking ability of my framework.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Weijiang Xiong</title>
-    <link>https://weijiang-xiong.github.io/project/</link>
-      <atom:link href="https://weijiang-xiong.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Mechatronics | Weijiang Xiong</title>
+    <link>https://weijiang-xiong.github.io/tags/mechatronics/</link>
+      <atom:link href="https://weijiang-xiong.github.io/tags/mechatronics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mechatronics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 20:58:04 +0800</lastBuildDate>
     <image>
       <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>https://weijiang-xiong.github.io/project/</link>
+      <title>Mechatronics</title>
+      <link>https://weijiang-xiong.github.io/tags/mechatronics/</link>
     </image>
     
     <item>
@@ -22,38 +22,6 @@ This module consist of 5 electro-mechanical sub-modules.
 In this class, students need to assemble the mechanical parts of the module, and program an Arduino to control the motion of it.
 Every five modules could be connected in a row to guide the motion of an orb.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deep Learning Course</title>
-      <link>https://weijiang-xiong.github.io/project/deep-learning-course/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/deep-learning-course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inverted Pendulum</title>
-      <link>https://weijiang-xiong.github.io/project/inverted-pendulum/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/inverted-pendulum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kalman Filter</title>
-      <link>https://weijiang-xiong.github.io/project/kalman-filter/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/kalman-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learn DL with Pytorch</title>
-      <link>https://weijiang-xiong.github.io/project/learn-pytorch/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/learn-pytorch/</guid>
-      <description></description>
     </item>
     
     <item>
