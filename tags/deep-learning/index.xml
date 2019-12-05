@@ -17,7 +17,21 @@
       <link>https://weijiang-xiong.github.io/project/deep-learning-course/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/deep-learning-course/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Deep Learning course in Tongji University (2019 FALL) contains the following contents:
+- Machine learning basics: Linear regression/classification, Logistic regression for multi-class Classification problems.
+- Artificial Neural Networks: Fully-Connected Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks.
+- Applications of Deep Learning: Image Classification, Transfer Learning, Style Transfer, Object Detection, Segmentation, GAN&lt;/p&gt;
+
+&lt;p&gt;Assignments include:
+Linear Regression with Numpy
+Logistic Regression with Numpy
+Multi-class Logistic Regression with Numpy
+A 2-layer Fully-Connected Neural Networks with Numpy
+Image Classification with Pytorch
+Style Transfer with VGG19 and Pytorch&lt;/p&gt;
+
+&lt;p&gt;You can find my solutions &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;HERE&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
