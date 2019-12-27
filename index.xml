@@ -72,26 +72,10 @@ Style Transfer with VGG19 and Pytorch&lt;/p&gt;
     </item>
     
     <item>
-      <title>Kalman Filter</title>
-      <link>https://weijiang-xiong.github.io/project/kalman-filter/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/kalman-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Learn DL with Pytorch</title>
       <link>https://weijiang-xiong.github.io/project/learn-pytorch/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/learn-pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PCB Design</title>
-      <link>https://weijiang-xiong.github.io/project/pcb-design/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/pcb-design/</guid>
       <description></description>
     </item>
     
@@ -189,6 +173,8 @@ Notably, Prof. Grimson and Dr. Anna wears the same clothes through out 6.0001 an
 &lt;/blockquote&gt;
 
 &lt;h3&gt;&lt;span id=&#34;robotics&#34;&gt;Robotics and AI&lt;/span&gt;&lt;/h3&gt;
+
+&lt;p&gt;In recent years, robotics and AI have gone through remarkable progress. Many new ideas are proposed almost every day, and learning it is impossible to keep abreast of the trend only by courses in the classroom. Therefore, I have spontaneously taken several online courses to know the latest development of these amazing subjects.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PPLop4L2eGk&amp;amp;list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&#34; target=&#34;_blank&#34;&gt;CS229 Machine Learning&lt;/a&gt;&lt;/p&gt;
 
