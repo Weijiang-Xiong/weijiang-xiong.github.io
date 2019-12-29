@@ -39,7 +39,10 @@ Style Transfer with VGG19 and Pytorch&lt;/p&gt;
       <link>https://weijiang-xiong.github.io/project/learn-pytorch/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/learn-pytorch/</guid>
-      <description></description>
+      <description>&lt;p&gt;Pytorch is the most popular deep learning framework in academic works.
+I got to know it through the &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;deep learning course&lt;/a&gt; in Tongji, the official &lt;a href=&#34;https://pytorch.org/tutorials/index.html&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt; and the online course &lt;a href=&#34;https://www.youtube.com/watch?v=SKq-pmkekTk&amp;amp;list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&#34; target=&#34;_blank&#34;&gt;PyTorchZeroToAll&lt;/a&gt;.
+You can see some of my practice &lt;a href=&#34;https://github.com/Weijiang-Xiong/pyIntro/tree/master/Pytorch&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

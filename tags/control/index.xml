@@ -17,7 +17,12 @@
       <link>https://weijiang-xiong.github.io/project/inverted-pendulum/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/inverted-pendulum/</guid>
-      <description></description>
+      <description>&lt;p&gt;An inverted pendulum is a pendulum that has its center of mass above its pivot point.
+It is unstable and without additional help will fall over.
+It can be suspended stably in this inverted position by using a control system to monitor the angle of the pole and move the pivot point horizontally back under the center of mass when it starts to fall over, keeping it balanced.
+The inverted pendulum is a classic problem in dynamics and control theory and is used as a benchmark for testing control strategies.
+In the project for Control Engineering, I designed a PID controller for a first order inverted pendulum, and compared its performance with the LQR controller.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

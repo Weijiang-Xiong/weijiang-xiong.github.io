@@ -30,7 +30,11 @@ You can find the demonstration video &lt;a href=&#34;https://www.youtube.com/wat
       <link>https://weijiang-xiong.github.io/project/peb-puma/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/peb-puma/</guid>
-      <description></description>
+      <description>&lt;p&gt;PACE is an international collaborative competition.
+We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin.
+In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it.
+To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.&lt;/p&gt;
+</description>
     </item>
     
     <item>

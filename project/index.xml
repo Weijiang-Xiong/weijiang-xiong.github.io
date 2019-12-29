@@ -52,7 +52,12 @@ Style Transfer with VGG19 and Pytorch&lt;/p&gt;
       <link>https://weijiang-xiong.github.io/project/inverted-pendulum/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/inverted-pendulum/</guid>
-      <description></description>
+      <description>&lt;p&gt;An inverted pendulum is a pendulum that has its center of mass above its pivot point.
+It is unstable and without additional help will fall over.
+It can be suspended stably in this inverted position by using a control system to monitor the angle of the pole and move the pivot point horizontally back under the center of mass when it starts to fall over, keeping it balanced.
+The inverted pendulum is a classic problem in dynamics and control theory and is used as a benchmark for testing control strategies.
+In the project for Control Engineering, I designed a PID controller for a first order inverted pendulum, and compared its performance with the LQR controller.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -60,7 +65,10 @@ Style Transfer with VGG19 and Pytorch&lt;/p&gt;
       <link>https://weijiang-xiong.github.io/project/learn-pytorch/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/learn-pytorch/</guid>
-      <description></description>
+      <description>&lt;p&gt;Pytorch is the most popular deep learning framework in academic works.
+I got to know it through the &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;deep learning course&lt;/a&gt; in Tongji, the official &lt;a href=&#34;https://pytorch.org/tutorials/index.html&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt; and the online course &lt;a href=&#34;https://www.youtube.com/watch?v=SKq-pmkekTk&amp;amp;list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&#34; target=&#34;_blank&#34;&gt;PyTorchZeroToAll&lt;/a&gt;.
+You can see some of my practice &lt;a href=&#34;https://github.com/Weijiang-Xiong/pyIntro/tree/master/Pytorch&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -68,7 +76,11 @@ Style Transfer with VGG19 and Pytorch&lt;/p&gt;
       <link>https://weijiang-xiong.github.io/project/peb-puma/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/peb-puma/</guid>
-      <description></description>
+      <description>&lt;p&gt;PACE is an international collaborative competition.
+We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin.
+In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it.
+To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.&lt;/p&gt;
+</description>
     </item>
     
     <item>
