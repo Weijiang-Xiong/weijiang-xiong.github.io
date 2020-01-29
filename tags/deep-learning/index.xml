@@ -17,20 +17,39 @@
       <link>https://weijiang-xiong.github.io/project/deep-learning-course/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/deep-learning-course/</guid>
-      <description>&lt;p&gt;The Deep Learning course in Tongji University (2019 FALL) contains the following contents:
-- Machine learning basics: Linear regression/classification, Logistic regression for multi-class Classification problems.
-- Artificial Neural Networks: Fully-Connected Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks.
-- Applications of Deep Learning: Image Classification, Transfer Learning, Style Transfer, Object Detection, Segmentation, GAN&lt;/p&gt;
+      <description>&lt;p&gt;The Deep Learning course in Tongji University (2019 FALL) contains the following contents:&lt;/p&gt;
 
-&lt;p&gt;Assignments include:
-Linear Regression with Numpy
-Logistic Regression with Numpy
-Multi-class Logistic Regression with Numpy
-A 2-layer Fully-Connected Neural Networks with Numpy
-Image Classification with Pytorch
-Style Transfer with VGG19 and Pytorch&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Machine learning basics: Linear regression and classification, Logistic regression for multi-class Classification problems.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;You can find my solutions &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;HERE&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Artificial Neural Networks: Fully-Connected Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Applications of Deep Learning: Image Classification, Transfer Learning, Style Transfer, Object Detection, Segmentation, GAN&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Assignments include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Linear Regression with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Logistic Regression with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Multi-class Logistic Regression with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A 2-layer Fully-Connected Neural Networks with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Image Classification with Pytorch&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Style Transfer with VGG19 and Pytorch&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As shown in the picture, my final project &amp;ldquo;Integrated Perception and Decision for Self-Driving Simulation&amp;rdquo; simulates autonomous driving.
+The simulator is provided by UdaCity and it contains 3 camera which returns images of the road.
+I drive the car myself to generate training data, and then I trained a CNN to &amp;ldquo;drive&amp;rdquo; the car based on my driving log.
+The problem of self-driving is quite interesting, but I don&amp;rsquo;t think it&amp;rsquo;s proper let a CNN take over since it&amp;rsquo;s a black box.
+Maybe we can just treat this CNN as a sensor and do sensor fusion.
+Personally I hope to work on it in my graduate study.
+You can find the Github Repo &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
