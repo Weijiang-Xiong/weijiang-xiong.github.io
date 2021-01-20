@@ -5,7 +5,7 @@
     <link>https://weijiang-xiong.github.io/tags/</link>
       <atom:link href="https://weijiang-xiong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 20:58:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 13:46:18 +0200</lastBuildDate>
     <image>
       <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,26 +13,34 @@
     </image>
     
     <item>
-      <title>Control</title>
-      <link>https://weijiang-xiong.github.io/tags/control/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/tags/control/</guid>
+      <title>Machine Learning</title>
+      <link>https://weijiang-xiong.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 20 Jan 2021 13:46:18 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://weijiang-xiong.github.io/tags/deep-learning/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/tags/deep-learning/</guid>
+      <title>Robotic</title>
+      <link>https://weijiang-xiong.github.io/tags/robotic/</link>
+      <pubDate>Wed, 20 Jan 2021 13:46:01 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/tags/robotic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mechatronics</title>
-      <link>https://weijiang-xiong.github.io/tags/mechatronics/</link>
+      <title>Perception</title>
+      <link>https://weijiang-xiong.github.io/tags/perception/</link>
+      <pubDate>Sat, 05 Sep 2020 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/tags/perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical</title>
+      <link>https://weijiang-xiong.github.io/tags/mechanical/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/tags/mechatronics/</guid>
+      <guid>https://weijiang-xiong.github.io/tags/mechanical/</guid>
       <description></description>
     </item>
     

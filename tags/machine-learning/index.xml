@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Weijiang Xiong</title>
+    <link>https://weijiang-xiong.github.io/tags/machine-learning/</link>
+      <atom:link href="https://weijiang-xiong.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 13:46:18 +0200</lastBuildDate>
+    <image>
+      <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
+      <title>Machine Learning</title>
+      <link>https://weijiang-xiong.github.io/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>https://weijiang-xiong.github.io/project/bayesian-data-analysis/</link>
+      <pubDate>Wed, 20 Jan 2021 13:46:18 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/bayesian-data-analysis/</guid>
+      <description>&lt;p&gt;This is the course project for &lt;a href=&#34;https://mycourses.aalto.fi/course/view.php?id=28239&#34; target=&#34;_blank&#34;&gt;CS-E5710 Bayesian Data Analysis&lt;/a&gt;, which I completed together with my friend Haoping Xiao.&lt;/p&gt;
+
+&lt;p&gt;Road traffic and safety have become one of the major problems in people&amp;rsquo;s safety concerns.
+According to &lt;a href=&#34;https://www.who.int/publications/i/item/9789241565684&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;, the annual road traffic deaths has reached 1.35 million in 2018, which makes road accident the leading killer of people aged from 5 to 29.
+In the UK, traffic accidents have caused more than 1700 deaths and more than 150,000 injuries in 2019 alone &lt;a href=&#34;https://www.racfoundation.org/motoring-faqs/safety#a1&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;.
+Therefore, understanding and projecting the trend of growth (decrease) in the rate of traffic accidents, could raise the awareness of the general population and call for a collaborative effort to address this problem.&lt;/p&gt;
+
+&lt;p&gt;In this project, we try to explore the &lt;code&gt;Road Safety Data&lt;/code&gt; from the Department of Transport in the UK.
+The dataset accurately presents the time, location, police force, vehicles and number of citizens involved in every accident, and it is publicly available at &lt;a href=&#34;https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data&#34; target=&#34;_blank&#34;&gt;3&lt;/a&gt;.
+We will try to capture the trend of the number of cases in different areas using a normal model with linear mean, and provide statistical results from a Bayesian perspective.
+Concretely, we study the number of accidents in 6 areas: Metropolitan Area (London), Cumbria, Lancashire, Merseyside, Greater Manchester and Cheshire.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

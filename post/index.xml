@@ -5,100 +5,12 @@
     <link>https://weijiang-xiong.github.io/post/</link>
       <atom:link href="https://weijiang-xiong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 20:09:03 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://weijiang-xiong.github.io/post/</link>
     </image>
-    
-    <item>
-      <title>Online courses I&#39;ve attended</title>
-      <link>https://weijiang-xiong.github.io/post/ocw/</link>
-      <pubDate>Tue, 05 Nov 2019 20:09:03 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/post/ocw/</guid>
-      <description>
-
-&lt;p&gt;There are a lot of academic institutes and individual researchers offering free online courses and learning materials to everyone.
-I&amp;rsquo;m really grateful that I can learn what I&amp;rsquo;m interested in, and I&amp;rsquo;ve benefit a lot from them.
-I like to study courses on YouTube because it&amp;rsquo;s free of charge and has no limitation.
-I can conveniently get access to it almost anywhere with my smartphone.
-The online courses I&amp;rsquo;ve attended basically contains the following catagories: &lt;a href=&#34;#math&#34;&gt;mathematics&lt;/a&gt;, &lt;a href=&#34;#cs&#34;&gt;programming&lt;/a&gt; and &lt;a href=&#34;#robotics&#34;&gt;Robotics and Artificial Intelligence&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;&lt;span id=&#34;math&#34;&gt;Mathematics&lt;/span&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7UJ4CFRGd-U&amp;amp;list=PL221E2BBF13BECF6C&#34; target=&#34;_blank&#34;&gt;MIT 18.06 Linear Algebra&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;MIT actually offers a newer version of this course since 2018, along with the 6th edit of Prof. Strang&amp;rsquo;s book.
-But personally, I took the version of Fall 2011
-I was quite moved by Prof. Strang&amp;rsquo;s devotion to teaching.
-In some lectures, there is no student in the classroom.
-And I learned from the comments that Prof. Strang re-recorded the video to improve something that he was not satisfied with.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wIq4CssPoO0&amp;amp;list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&#34; target=&#34;_blank&#34;&gt;MIT 6.042 Mathematics for Computer Science&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This course talks about proof, tree, graph, counting and discrete probability.
-There is a free online text book on MIT OCW.
-It also talks about an example on random walk, which is quite similar to that in MIT 6.0002&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=X9t-u87df3o&amp;amp;list=PLBE9407EA64E2C318&#34; target=&#34;_blank&#34;&gt;Highlights of Calculus&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Prof. Strang is really a devoted teacher!!!!!
-It is not a full course of calculus, I took it to review what I&amp;rsquo;ve learned in my college courses.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fNk_zzaMoSs&amp;amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&#34; target=&#34;_blank&#34;&gt;The Essence of Linear Algebra&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This course is offered by 3Blue1Brown.
-In this series, he used vivid animation to illustrates matrix and the corresponding spatial transform, which is  really inspiring and intuitively understandable.
-I actually started from this and went on to MIT 18.06&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;&lt;span id=&#34;cs&#34;&gt;Programming&lt;/span&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.python.org/3.7/tutorial/&#34; target=&#34;_blank&#34;&gt;Official Python Tutorial&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This is probably the best tutorial of python.
-It provides a comprehensive overview of python and explains how they works, which is often omitted by many textbooks.
-I read this along with the textbook of MIT 6.0001 &amp;amp; 6.0002&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;MIT &lt;a href=&#34;https://www.youtube.com/watch?v=nykOeWgQcHM&amp;amp;list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&#34; target=&#34;_blank&#34;&gt;6.0001&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.youtube.com/watch?v=C1lhuz6pZC0&amp;amp;list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&#34; target=&#34;_blank&#34;&gt;6.0002&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I like these wonderful series very much!
-They are really suitable for a novice who want to learn data science&amp;ndash;me, for example.
-Notably, Prof. Grimson and Dr. Anna wears the same clothes through out 6.0001 and 6.0002 ^_^.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;&lt;span id=&#34;robotics&#34;&gt;Robotics and AI&lt;/span&gt;&lt;/h3&gt;
-
-&lt;p&gt;In recent years, robotics and AI have gone through remarkable progress. Many new ideas are proposed almost every day, and learning it is impossible to keep abreast of the trend only by courses in the classroom. Therefore, I have spontaneously taken several online courses to know the latest development of these amazing subjects.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PPLop4L2eGk&amp;amp;list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&#34; target=&#34;_blank&#34;&gt;CS229 Machine Learning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cs231n.stanford.edu/index.html&#34; target=&#34;_blank&#34;&gt;CS231N Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5v1JnYv_yWs&amp;amp;list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&#34; target=&#34;_blank&#34;&gt;MIT 6.S191 Introduction to Deep Learning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=O5xeyoRL95U&amp;amp;list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&#34; target=&#34;_blank&#34;&gt;MIT 6.S094 Deep Learning for Self-Driving Cars&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SKq-pmkekTk&amp;amp;list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&#34; target=&#34;_blank&#34;&gt;PyTorchZeroToAll&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;other-small-topics&#34;&gt;Other Small Topics&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mwn8xhgNpFY&amp;amp;list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr&#34; target=&#34;_blank&#34;&gt;Kalman Filter&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vwUV2IDLP8Q&amp;amp;list=PLcQcj4VuyilM-I4Zyagqdg6TtAjFH4IqO&#34; target=&#34;_blank&#34;&gt;Lagrange Multiplers Khan Academy&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

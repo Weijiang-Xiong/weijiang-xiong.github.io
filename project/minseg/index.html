@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PACE is an international collaborative competition. We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin. In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it. To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.">
+  <meta name="description" content="This is the course project of ELEC-E8101 Digital and Optimal Control at Aalto University. It is somewhat like the inverted pendulum I did in my bachelor&rsquo;s program, but this time I went much further than simulation. With the course guidance, I managed to implement a PID, an full-state feedback and a LQR controller for the MinSeg robot. The starting point is also formula derivation, followed by simulation in Simulink. After that, the I used the Arduino module in Matlab to compile the Simulink model into C code, and downloaded to the robot.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://weijiang-xiong.github.io/project/peb-puma/">
+  <link rel="alternate" hreflang="en-us" href="https://weijiang-xiong.github.io/project/minseg/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://weijiang-xiong.github.io/project/peb-puma/">
+  <link rel="canonical" href="https://weijiang-xiong.github.io/project/minseg/">
 
   
   
@@ -110,15 +110,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Weijiang Xiong">
-  <meta property="og:url" content="https://weijiang-xiong.github.io/project/peb-puma/">
-  <meta property="og:title" content="PEB in PUMA | Weijiang Xiong">
-  <meta property="og:description" content="PACE is an international collaborative competition. We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin. In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it. To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi."><meta property="og:image" content="https://weijiang-xiong.github.io/project/peb-puma/featured.png">
-  <meta property="twitter:image" content="https://weijiang-xiong.github.io/project/peb-puma/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://weijiang-xiong.github.io/project/minseg/">
+  <meta property="og:title" content="MinSeg | Weijiang Xiong">
+  <meta property="og:description" content="This is the course project of ELEC-E8101 Digital and Optimal Control at Aalto University. It is somewhat like the inverted pendulum I did in my bachelor&rsquo;s program, but this time I went much further than simulation. With the course guidance, I managed to implement a PID, an full-state feedback and a LQR controller for the MinSeg robot. The starting point is also formula derivation, followed by simulation in Simulink. After that, the I used the Arduino module in Matlab to compile the Simulink model into C code, and downloaded to the robot."><meta property="og:image" content="https://weijiang-xiong.github.io/project/minseg/featured.png">
+  <meta property="twitter:image" content="https://weijiang-xiong.github.io/project/minseg/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-11-05T20:58:04&#43;08:00">
+      <meta property="article:published_time" content="2021-01-20T13:46:01&#43;02:00">
     
-    <meta property="article:modified_time" content="2019-11-05T20:58:04&#43;08:00">
+    <meta property="article:modified_time" content="2021-01-20T13:46:01&#43;02:00">
   
 
   
@@ -142,16 +142,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://weijiang-xiong.github.io/project/peb-puma/"
+    "@id": "https://weijiang-xiong.github.io/project/minseg/"
   },
-  "headline": "PEB in PUMA",
+  "headline": "MinSeg",
   
   "image": [
-    "https://weijiang-xiong.github.io/project/peb-puma/featured.png"
+    "https://weijiang-xiong.github.io/project/minseg/featured.png"
   ],
   
-  "datePublished": "2019-11-05T20:58:04+08:00",
-  "dateModified": "2019-11-05T20:58:04+08:00",
+  "datePublished": "2021-01-20T13:46:01+02:00",
+  "dateModified": "2021-01-20T13:46:01+02:00",
   
   "author": {
     "@type": "Person",
@@ -166,7 +166,7 @@
       "url": "https://weijiang-xiong.github.io/img/icon-512.png"
     }
   },
-  "description": "PACE is an international collaborative competition. We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin. In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it. To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi."
+  "description": "This is the course project of ELEC-E8101 Digital and Optimal Control at Aalto University. It is somewhat like the inverted pendulum I did in my bachelor\u0026rsquo;s program, but this time I went much further than simulation. With the course guidance, I managed to implement a PID, an full-state feedback and a LQR controller for the MinSeg robot. The starting point is also formula derivation, followed by simulation in Simulink. After that, the I used the Arduino module in Matlab to compile the Simulink model into C code, and downloaded to the robot."
 }
 </script>
 
@@ -184,7 +184,7 @@
 
 
 
-  <title>PEB in PUMA | Weijiang Xiong</title>
+  <title>MinSeg | Weijiang Xiong</title>
 
 </head>
 
@@ -460,12 +460,10 @@
 
   
   
-    
-  
 
 
 <div class="article-container pt-3">
-  <h1>PEB in PUMA</h1>
+  <h1>MinSeg</h1>
 
   
 
@@ -483,7 +481,7 @@
     
       
     
-    Nov 5, 2019
+    Jan 20, 2021
   </span>
   
 
@@ -518,9 +516,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 540px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 454px; max-height: 691px;">
   <div style="position: relative">
-    <img src="/project/peb-puma/featured_hufe9aeabcc20fb99fa30b28fbe0eeba56_430507_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/project/minseg/featured.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -530,10 +528,13 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>PACE is an international collaborative competition.
-We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin.
-In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it.
-To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.</p>
+      <p>This is the course project of <a href="https://mycourses.aalto.fi/course/view.php?id=28581" target="_blank">ELEC-E8101 Digital and Optimal Control</a> at Aalto University.
+It is somewhat like the inverted pendulum I did in my bachelor&rsquo;s program, but this time I went much further than simulation.
+With the course guidance, I managed to implement a PID, an full-state feedback and a LQR controller for the <a href="https://minseg.com/" target="_blank">MinSeg robot</a>.
+The starting point is also formula derivation, followed by simulation in Simulink.
+After that, the I used the Arduino module in Matlab to compile the Simulink model into C code, and downloaded to the robot.
+On a real robot, the PID controller did not worked well, and the full-state feedback could balance up to 20 seconds.
+While the LQR controller could keep the robot balanced longer than the other two.</p>
 
     </div>
 
@@ -562,7 +563,7 @@ To further endow PEB with the ability to perceive the visual world, I embedded a
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://weijiang-xiong.github.io/project/peb-puma/&amp;text=PEB%20in%20PUMA" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://weijiang-xiong.github.io/project/minseg/&amp;text=MinSeg" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -575,7 +576,7 @@ To further endow PEB with the ability to perceive the visual world, I embedded a
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://weijiang-xiong.github.io/project/peb-puma/&amp;t=PEB%20in%20PUMA" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://weijiang-xiong.github.io/project/minseg/&amp;t=MinSeg" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -588,7 +589,7 @@ To further endow PEB with the ability to perceive the visual world, I embedded a
       
       
       <li>
-        <a href="mailto:?subject=PEB%20in%20PUMA&amp;body=https://weijiang-xiong.github.io/project/peb-puma/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=MinSeg&amp;body=https://weijiang-xiong.github.io/project/minseg/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -601,7 +602,7 @@ To further endow PEB with the ability to perceive the visual world, I embedded a
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://weijiang-xiong.github.io/project/peb-puma/&amp;title=PEB%20in%20PUMA" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://weijiang-xiong.github.io/project/minseg/&amp;title=MinSeg" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -614,7 +615,7 @@ To further endow PEB with the ability to perceive the visual world, I embedded a
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=PEB%20in%20PUMA%20https://weijiang-xiong.github.io/project/peb-puma/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=MinSeg%20https://weijiang-xiong.github.io/project/minseg/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -627,7 +628,7 @@ To further endow PEB with the ability to perceive the visual world, I embedded a
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://weijiang-xiong.github.io/project/peb-puma/&amp;title=PEB%20in%20PUMA" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://weijiang-xiong.github.io/project/minseg/&amp;title=MinSeg" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -749,6 +750,15 @@ To further endow PEB with the ability to perceive the visual world, I embedded a
 
 
   
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/project/peb-puma/">PEB in PUMA</a></li>
+      
+    </ul>
+  </div>
   
 
 

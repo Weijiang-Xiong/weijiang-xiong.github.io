@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Bachelor Student in Mechatronics">
+  <meta name="description" content="Msc in Robotics">
 
   
   <link rel="alternate" hreflang="en-us" href="https://weijiang-xiong.github.io/project/">
@@ -115,10 +115,10 @@
   <meta property="og:site_name" content="Weijiang Xiong">
   <meta property="og:url" content="https://weijiang-xiong.github.io/project/">
   <meta property="og:title" content="Projects | Weijiang Xiong">
-  <meta property="og:description" content="Bachelor Student in Mechatronics"><meta property="og:image" content="https://weijiang-xiong.github.io/img/icon-192.png">
+  <meta property="og:description" content="Msc in Robotics"><meta property="og:image" content="https://weijiang-xiong.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://weijiang-xiong.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-11-05T20:58:04&#43;08:00">
+    <meta property="og:updated_time" content="2021-01-20T13:46:18&#43;02:00">
   
 
   
@@ -275,65 +275,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#experience"><span>Experience</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#accomplishments"><span>Achievements</span></a>
         </li>
 
         
@@ -480,26 +422,38 @@
   
   
   <div>
-    <h2><a href="/project/chain-reaction/">Chain Reaction</a></h2>
+    <h2><a href="/project/bayesian-data-analysis/">Bayesian</a></h2>
     <div class="article-style">
       
-      In 2018 Open-Source Hardware and Programming, I organized a mechanical experiment as the TA lead. This module consist of 5 electro-mechanical sub-modules. In this class, students need to assemble the mechanical parts of the module, and program an Arduino to control the motion of it. Every five modules could be connected in a row to guide the motion of an orb. You can find the demonstration video HERE.
+      This is the course project for CS-E5710 Bayesian Data Analysis, which I completed together with my friend Haoping Xiao.
+Road traffic and safety have become one of the major problems in people&rsquo;s safety concerns. According to 1, the annual road traffic deaths has reached 1.35 million in 2018, which makes road accident the leading killer of people aged from 5 to 29. In the UK, traffic accidents have caused more than 1700 deaths and more than 150,000 injuries in 2019 alone 2.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/project/deep-learning-course/">Deep Learning Course</a></h2>
+    <h2><a href="/project/minseg/">MinSeg</a></h2>
     <div class="article-style">
       
-      The Deep Learning course in Tongji University (2019 FALL) contains the following contents:
- Machine learning basics: Linear regression and classification, Logistic regression for multi-class Classification problems.
- Artificial Neural Networks: Fully-Connected Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks.
- Applications of Deep Learning: Image Classification, Transfer Learning, Style Transfer, Object Detection, Segmentation, GAN
-  Assignments include:
- Linear Regression with Numpy
- Logistic Regression with Numpy
- Multi-class Logistic Regression with Numpy
+      This is the course project of ELEC-E8101 Digital and Optimal Control at Aalto University. It is somewhat like the inverted pendulum I did in my bachelor&rsquo;s program, but this time I went much further than simulation. With the course guidance, I managed to implement a PID, an full-state feedback and a LQR controller for the MinSeg robot. The starting point is also formula derivation, followed by simulation in Simulink. After that, the I used the Arduino module in Matlab to compile the Simulink model into C code, and downloaded to the robot.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/project/pcdet/">Point Cloud Object Detection</a></h2>
+    <div class="article-style">
+      
+      During my internship at Hesai Tech, I worked on the point cloud-based object detection problem. This picture is from Waymo Open Dataset, and I developed several detector with OpenPCDet. One of the challenges is the scale of Waymo Open Dataset (2TB), and I&rsquo;ve managed to process the whole dataset with a divide and conquer scheme. The focus of my project was to merge the information from multiple frames, so as to raise the overall accuracy of detection.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/project/chain-reaction/">Chain Reaction</a></h2>
+    <div class="article-style">
+      
+      In 2018 Open-Source Hardware and Programming, I organized a mechanical experiment as the TA lead. This module consist of 5 electro-mechanical sub-modules, by assembling the mechanical parts and programming the stepper motor, the students can learn the basic steps of building a electro-mechanical system. In this class, students need to assemble the mechanical parts of the module, and program an Arduino to control the motion of it. Every five modules could be connected in a row to guide the motion of an wooden orb.
       
     </div>
   </div>
@@ -514,19 +468,26 @@
   </div>
   
   <div>
-    <h2><a href="/project/learn-pytorch/">Learn DL with Pytorch</a></h2>
+    <h2><a href="/project/peb-puma/">PEB in PUMA</a></h2>
     <div class="article-style">
       
-      Pytorch is the most popular deep learning framework in academic works. I got to know it through the deep learning course in Tongji, the official tutorial and the online course PyTorchZeroToAll. You can see some of my practice here.
+      PACE is an international collaborative competition. We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin. In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it. To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/project/peb-puma/">PEB in PUMA</a></h2>
+    <h2><a href="/project/deep-learning-course/">Self-Driving Simulation</a></h2>
     <div class="article-style">
       
-      PACE is an international collaborative competition. We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin. In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it. To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.
+      The Deep Learning course in Tongji University (2019 FALL) contains the following contents:
+ Machine learning basics: Linear regression and classification, Logistic regression for multi-class Classification problems.
+ Artificial Neural Networks: Fully-Connected Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks.
+ Applications of Deep Learning: Image Classification, Transfer Learning, Style Transfer, Object Detection, Segmentation, GAN
+  Assignments include:
+ Linear Regression with Numpy
+ Logistic Regression with Numpy
+ Multi-class Logistic Regression with Numpy
       
     </div>
   </div>

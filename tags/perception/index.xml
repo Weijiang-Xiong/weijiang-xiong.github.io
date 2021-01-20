@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perception | Weijiang Xiong</title>
+    <link>https://weijiang-xiong.github.io/tags/perception/</link>
+      <atom:link href="https://weijiang-xiong.github.io/tags/perception/index.xml" rel="self" type="application/rss+xml" />
+    <description>Perception</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 20:58:04 +0800</lastBuildDate>
+    <image>
+      <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
+      <title>Perception</title>
+      <link>https://weijiang-xiong.github.io/tags/perception/</link>
+    </image>
+    
+    <item>
+      <title>Point Cloud Object Detection</title>
+      <link>https://weijiang-xiong.github.io/project/pcdet/</link>
+      <pubDate>Sat, 05 Sep 2020 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/pcdet/</guid>
+      <description>&lt;p&gt;During my internship at Hesai Tech, I worked on the point cloud-based object detection problem.
+This picture is from &lt;a href=&#34;https://waymo.com/open/data/&#34; target=&#34;_blank&#34;&gt;Waymo Open Dataset&lt;/a&gt;, and I developed several detector with &lt;a href=&#34;https://github.com/open-mmlab/OpenPCDet&#34; target=&#34;_blank&#34;&gt;OpenPCDet&lt;/a&gt;.
+One of the challenges is the scale of Waymo Open Dataset (2TB), and I&amp;rsquo;ve managed to process the whole dataset with a divide and conquer scheme.
+The focus of my project was to merge the information from multiple frames, so as to raise the overall accuracy of detection.
+My favorite way is to use ConvLSTM after bird-eye-view compression, where the LSTM would be able to capture temporal information.
+Nevertheless, the brutal force way is to feed three consecutive frames into the network and supervise the learning process with human-annotated labels.
+The internship at Hesai was more than a pleasant journey, not only did I learned 3D detection from an engineer&amp;rsquo;s aspect, I have also made a few valuable friends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Driving Simulation</title>
+      <link>https://weijiang-xiong.github.io/project/deep-learning-course/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/deep-learning-course/</guid>
+      <description>&lt;p&gt;The Deep Learning course in Tongji University (2019 FALL) contains the following contents:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Machine learning basics: Linear regression and classification, Logistic regression for multi-class Classification problems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Artificial Neural Networks: Fully-Connected Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Applications of Deep Learning: Image Classification, Transfer Learning, Style Transfer, Object Detection, Segmentation, GAN&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Assignments include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Linear Regression with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Logistic Regression with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Multi-class Logistic Regression with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A 2-layer Fully-Connected Neural Networks with Numpy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Image Classification with Pytorch&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Style Transfer with VGG19 and Pytorch&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As shown in the picture, my final project &amp;ldquo;Integrated Perception and Decision for Self-Driving Simulation&amp;rdquo; simulates autonomous driving.
+The simulator is provided by UdaCity and it contains 3 camera which returns images of the road.
+I drive the car myself to generate training data, and then I trained a CNN to &amp;ldquo;drive&amp;rdquo; the car based on my driving log.
+The problem of self-driving is quite interesting, but I don&amp;rsquo;t think it&amp;rsquo;s proper let a CNN take over since it&amp;rsquo;s a black box.
+Maybe we can just treat this CNN as a sensor and do sensor fusion.
+Personally I hope to work on it in my graduate study.
+You can find the Github Repo &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

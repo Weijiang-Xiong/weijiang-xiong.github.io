@@ -5,7 +5,7 @@
     <link>https://weijiang-xiong.github.io/project/</link>
       <atom:link href="https://weijiang-xiong.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 20:58:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 13:46:18 +0200</lastBuildDate>
     <image>
       <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,20 +13,94 @@
     </image>
     
     <item>
+      <title>Bayesian</title>
+      <link>https://weijiang-xiong.github.io/project/bayesian-data-analysis/</link>
+      <pubDate>Wed, 20 Jan 2021 13:46:18 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/bayesian-data-analysis/</guid>
+      <description>&lt;p&gt;This is the course project for &lt;a href=&#34;https://mycourses.aalto.fi/course/view.php?id=28239&#34; target=&#34;_blank&#34;&gt;CS-E5710 Bayesian Data Analysis&lt;/a&gt;, which I completed together with my friend Haoping Xiao.&lt;/p&gt;
+
+&lt;p&gt;Road traffic and safety have become one of the major problems in people&amp;rsquo;s safety concerns.
+According to &lt;a href=&#34;https://www.who.int/publications/i/item/9789241565684&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;, the annual road traffic deaths has reached 1.35 million in 2018, which makes road accident the leading killer of people aged from 5 to 29.
+In the UK, traffic accidents have caused more than 1700 deaths and more than 150,000 injuries in 2019 alone &lt;a href=&#34;https://www.racfoundation.org/motoring-faqs/safety#a1&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;.
+Therefore, understanding and projecting the trend of growth (decrease) in the rate of traffic accidents, could raise the awareness of the general population and call for a collaborative effort to address this problem.&lt;/p&gt;
+
+&lt;p&gt;In this project, we try to explore the &lt;code&gt;Road Safety Data&lt;/code&gt; from the Department of Transport in the UK.
+The dataset accurately presents the time, location, police force, vehicles and number of citizens involved in every accident, and it is publicly available at &lt;a href=&#34;https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data&#34; target=&#34;_blank&#34;&gt;3&lt;/a&gt;.
+We will try to capture the trend of the number of cases in different areas using a normal model with linear mean, and provide statistical results from a Bayesian perspective.
+Concretely, we study the number of accidents in 6 areas: Metropolitan Area (London), Cumbria, Lancashire, Merseyside, Greater Manchester and Cheshire.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MinSeg</title>
+      <link>https://weijiang-xiong.github.io/project/minseg/</link>
+      <pubDate>Wed, 20 Jan 2021 13:46:01 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/minseg/</guid>
+      <description>&lt;p&gt;This is the course project of &lt;a href=&#34;https://mycourses.aalto.fi/course/view.php?id=28581&#34; target=&#34;_blank&#34;&gt;ELEC-E8101 Digital and Optimal Control&lt;/a&gt; at Aalto University.
+It is somewhat like the inverted pendulum I did in my bachelor&amp;rsquo;s program, but this time I went much further than simulation.
+With the course guidance, I managed to implement a PID, an full-state feedback and a LQR controller for the &lt;a href=&#34;https://minseg.com/&#34; target=&#34;_blank&#34;&gt;MinSeg robot&lt;/a&gt;.
+The starting point is also formula derivation, followed by simulation in Simulink.
+After that, the I used the Arduino module in Matlab to compile the Simulink model into C code, and downloaded to the robot.
+On a real robot, the PID controller did not worked well, and the full-state feedback could balance up to 20 seconds.
+While the LQR controller could keep the robot balanced longer than the other two.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Point Cloud Object Detection</title>
+      <link>https://weijiang-xiong.github.io/project/pcdet/</link>
+      <pubDate>Sat, 05 Sep 2020 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/pcdet/</guid>
+      <description>&lt;p&gt;During my internship at Hesai Tech, I worked on the point cloud-based object detection problem.
+This picture is from &lt;a href=&#34;https://waymo.com/open/data/&#34; target=&#34;_blank&#34;&gt;Waymo Open Dataset&lt;/a&gt;, and I developed several detector with &lt;a href=&#34;https://github.com/open-mmlab/OpenPCDet&#34; target=&#34;_blank&#34;&gt;OpenPCDet&lt;/a&gt;.
+One of the challenges is the scale of Waymo Open Dataset (2TB), and I&amp;rsquo;ve managed to process the whole dataset with a divide and conquer scheme.
+The focus of my project was to merge the information from multiple frames, so as to raise the overall accuracy of detection.
+My favorite way is to use ConvLSTM after bird-eye-view compression, where the LSTM would be able to capture temporal information.
+Nevertheless, the brutal force way is to feed three consecutive frames into the network and supervise the learning process with human-annotated labels.
+The internship at Hesai was more than a pleasant journey, not only did I learned 3D detection from an engineer&amp;rsquo;s aspect, I have also made a few valuable friends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Chain Reaction</title>
       <link>https://weijiang-xiong.github.io/project/chain-reaction/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/chain-reaction/</guid>
       <description>&lt;p&gt;In 2018 Open-Source Hardware and Programming, I organized a mechanical experiment as the TA lead.
-This module consist of 5 electro-mechanical sub-modules.
+This module consist of 5 electro-mechanical sub-modules, by assembling the mechanical parts and programming the stepper motor, the students can learn the basic steps of building a electro-mechanical system.
 In this class, students need to assemble the mechanical parts of the module, and program an Arduino to control the motion of it.
-Every five modules could be connected in a row to guide the motion of an orb.
+Every five modules could be connected in a row to guide the motion of an wooden orb.
 You can find the demonstration video &lt;a href=&#34;https://www.youtube.com/watch?v=X094g3h9elY&amp;amp;t=0s&#34; target=&#34;_blank&#34;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deep Learning Course</title>
+      <title>Inverted Pendulum</title>
+      <link>https://weijiang-xiong.github.io/project/inverted-pendulum/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/inverted-pendulum/</guid>
+      <description>&lt;p&gt;An inverted pendulum is a pendulum that has its center of mass above its pivot point.
+It is unstable and without additional help will fall over.
+It can be suspended stably in this inverted position by using a control system to monitor the angle of the pole and move the pivot point horizontally back under the center of mass when it starts to fall over, keeping it balanced.
+The inverted pendulum is a classic problem in dynamics and control theory and is used as a benchmark for testing control strategies.
+In the project for Control Engineering, I designed a PID controller for a first order inverted pendulum, and compared its performance with the LQR controller.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PEB in PUMA</title>
+      <link>https://weijiang-xiong.github.io/project/peb-puma/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/peb-puma/</guid>
+      <description>&lt;p&gt;PACE is an international collaborative competition.
+We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin.
+In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it.
+To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Driving Simulation</title>
       <link>https://weijiang-xiong.github.io/project/deep-learning-course/</link>
       <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/project/deep-learning-course/</guid>
@@ -63,42 +137,6 @@ The problem of self-driving is quite interesting, but I don&amp;rsquo;t think it
 Maybe we can just treat this CNN as a sensor and do sensor fusion.
 Personally I hope to work on it in my graduate study.
 You can find the Github Repo &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Inverted Pendulum</title>
-      <link>https://weijiang-xiong.github.io/project/inverted-pendulum/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/inverted-pendulum/</guid>
-      <description>&lt;p&gt;An inverted pendulum is a pendulum that has its center of mass above its pivot point.
-It is unstable and without additional help will fall over.
-It can be suspended stably in this inverted position by using a control system to monitor the angle of the pole and move the pivot point horizontally back under the center of mass when it starts to fall over, keeping it balanced.
-The inverted pendulum is a classic problem in dynamics and control theory and is used as a benchmark for testing control strategies.
-In the project for Control Engineering, I designed a PID controller for a first order inverted pendulum, and compared its performance with the LQR controller.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learn DL with Pytorch</title>
-      <link>https://weijiang-xiong.github.io/project/learn-pytorch/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/learn-pytorch/</guid>
-      <description>&lt;p&gt;Pytorch is the most popular deep learning framework in academic works.
-I got to know it through the &lt;a href=&#34;https://github.com/Weijiang-Xiong/DLcourse&#34; target=&#34;_blank&#34;&gt;deep learning course&lt;/a&gt; in Tongji, the official &lt;a href=&#34;https://pytorch.org/tutorials/index.html&#34; target=&#34;_blank&#34;&gt;tutorial&lt;/a&gt; and the online course &lt;a href=&#34;https://www.youtube.com/watch?v=SKq-pmkekTk&amp;amp;list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&#34; target=&#34;_blank&#34;&gt;PyTorchZeroToAll&lt;/a&gt;.
-You can see some of my practice &lt;a href=&#34;https://github.com/Weijiang-Xiong/pyIntro/tree/master/Pytorch&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PEB in PUMA</title>
-      <link>https://weijiang-xiong.github.io/project/peb-puma/</link>
-      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/project/peb-puma/</guid>
-      <description>&lt;p&gt;PACE is an international collaborative competition.
-We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin.
-In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it.
-To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.&lt;/p&gt;
 </description>
     </item>
     

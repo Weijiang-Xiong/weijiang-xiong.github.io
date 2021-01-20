@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotic | Weijiang Xiong</title>
+    <link>https://weijiang-xiong.github.io/tags/robotic/</link>
+      <atom:link href="https://weijiang-xiong.github.io/tags/robotic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 13:46:01 +0200</lastBuildDate>
+    <image>
+      <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
+      <title>Robotic</title>
+      <link>https://weijiang-xiong.github.io/tags/robotic/</link>
+    </image>
+    
+    <item>
+      <title>MinSeg</title>
+      <link>https://weijiang-xiong.github.io/project/minseg/</link>
+      <pubDate>Wed, 20 Jan 2021 13:46:01 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/minseg/</guid>
+      <description>&lt;p&gt;This is the course project of &lt;a href=&#34;https://mycourses.aalto.fi/course/view.php?id=28581&#34; target=&#34;_blank&#34;&gt;ELEC-E8101 Digital and Optimal Control&lt;/a&gt; at Aalto University.
+It is somewhat like the inverted pendulum I did in my bachelor&amp;rsquo;s program, but this time I went much further than simulation.
+With the course guidance, I managed to implement a PID, an full-state feedback and a LQR controller for the &lt;a href=&#34;https://minseg.com/&#34; target=&#34;_blank&#34;&gt;MinSeg robot&lt;/a&gt;.
+The starting point is also formula derivation, followed by simulation in Simulink.
+After that, the I used the Arduino module in Matlab to compile the Simulink model into C code, and downloaded to the robot.
+On a real robot, the PID controller did not worked well, and the full-state feedback could balance up to 20 seconds.
+While the LQR controller could keep the robot balanced longer than the other two.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PEB in PUMA</title>
+      <link>https://weijiang-xiong.github.io/project/peb-puma/</link>
+      <pubDate>Tue, 05 Nov 2019 20:58:04 +0800</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/peb-puma/</guid>
+      <description>&lt;p&gt;PACE is an international collaborative competition.
+We took part in the PACE 2018 Forum with excellent team mate from TU Darmstadt and Tu Turin.
+In the PUMA project, our intelligent Portable Electrical Bicycle (PEB) aimed to improve the short-range transportation in urban life and I built the driving control module for it.
+To further endow PEB with the ability to perceive the visual world, I embedded an object detector based on YOLO and Raspberry Pi.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
