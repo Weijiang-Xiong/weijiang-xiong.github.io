@@ -5,12 +5,24 @@
     <link>https://weijiang-xiong.github.io/tags/machine-learning/</link>
       <atom:link href="https://weijiang-xiong.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 13:46:18 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 13:46:18 +0200</lastBuildDate>
     <image>
       <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
       <title>Machine Learning</title>
       <link>https://weijiang-xiong.github.io/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Normalizing Flows</title>
+      <link>https://weijiang-xiong.github.io/project/bayesian-deep-learning/</link>
+      <pubDate>Fri, 20 Aug 2021 13:46:18 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/bayesian-deep-learning/</guid>
+      <description>&lt;p&gt;This is my summer project at &lt;a href=&#34;https://research.cs.aalto.fi/pml/&#34; target=&#34;_blank&#34;&gt;PML Group&lt;/a&gt;, where I worked on Bayesian Deep Learning.
+Generally, there are &lt;a href=&#34;https://arxiv.org/abs/1703.04977&#34; target=&#34;_blank&#34;&gt;two kinds of uncertainties&lt;/a&gt; in Bayesian Deep Learning. One is called epistemic uncertainty (uncertainty about network weight) and the other is aleatoric uncertainties (uncertainty about input data).
+In my project, I extended the Linear and Conv layers in Pytorch with a flow-based stochastic part, so that the extended module could learn the distribution of input uncertainties by variational inferences.
+My project report is &lt;a href=&#34;files/NF for IBNN Summary.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bayesian</title>
