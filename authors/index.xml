@@ -17,19 +17,11 @@
       <link>https://weijiang-xiong.github.io/authors/admin/</link>
       <pubDate>Tue, 05 Nov 2019 21:00:43 +0800</pubDate>
       <guid>https://weijiang-xiong.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hello, I&amp;rsquo;m Weijiang Xiong (熊伟江), a master student at &lt;a href=&#34;https://www.aalto.fi/en&#34; target=&#34;_blank&#34;&gt;Aalto University&lt;/a&gt;, welcome to my website!
-At Aalto, I&amp;rsquo;m taking a major in Robotics and Autonomous Systems, and a minor Machine Learning (probably the &lt;em&gt;de facto&lt;/em&gt; major ^-^).
-In my first year, I took intensive courses in machine learning, and completed &lt;code&gt;96&lt;/code&gt; ECTS with GPA &lt;code&gt;4.86/5&lt;/code&gt;.
-After that, I joined the &lt;a href=&#34;https://research.cs.aalto.fi/pml/&#34; target=&#34;_blank&#34;&gt;Probabilistic Machine Learning Group&lt;/a&gt; as a summer intern and worked on Bayesian Deep Learning.
-Right now I&amp;rsquo;m having an wonderful exchange semester at &lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34;&gt;École Polytechnique Fédérale de Lausanne&lt;/a&gt;, and hosted by the &lt;a href=&#34;https://www.epfl.ch/labs/vita/&#34; target=&#34;_blank&#34;&gt;Visual Intelligence for Transportation (VITA) lab&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Weijiang Xiong (熊伟江) is a second-year robotics master student at &lt;a href=&#34;https://www.aalto.fi/en&#34; target=&#34;_blank&#34;&gt;Aalto University&lt;/a&gt;. He is now working on his master thesis as a research intern at Nokia Technologies. His is broadly interested in Artificial Intelligence, but with a focus on the application of visual perception and machine learning.&lt;/p&gt;
 
-&lt;p&gt;Before I came to Aalto, I got my bachelor&amp;rsquo;s degree in Mechanical Engineering from Tongji University, where I focused my study on Mechatronics.
-Upon graduation, I ranked &lt;code&gt;3/114&lt;/code&gt; in my department with GPA &lt;code&gt;4.58/5&lt;/code&gt;, and seized the award of Excellent Graduates in Shanghai.
-I completed two research programs, including my bachelor&amp;rsquo;s thesis, in &lt;a href=&#34;https://vision4robotics.github.io/&#34; target=&#34;_blank&#34;&gt;Vision4Robotics Group&lt;/a&gt; under the supervision of Prof. &lt;a href=&#34;https://vision4robotics.github.io/authors/changhong-fu/&#34; target=&#34;_blank&#34;&gt;Changhong Fu&lt;/a&gt;, and the projects were both centered on Visual Object Tracking.&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&#34;https://vision4robotics.github.io/&#34; target=&#34;_blank&#34;&gt;Vision4Robotics Group&lt;/a&gt; at Tongji University, he began his academic exploration from Visual Object Tracking for UAV. He then explored Bayesian Deep Learning methods in his summer project at &lt;a href=&#34;https://research.cs.aalto.fi/pml/&#34; target=&#34;_blank&#34;&gt;Aalto PML Group&lt;/a&gt;, and applied Normalizing Flows to model the probabilistic distribution of the aleatoric uncertainties for neural networks. During his exchange at &lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt;, he completed a project at the &lt;a href=&#34;https://www.epfl.ch/labs/vita/&#34; target=&#34;_blank&#34;&gt;VITA Lab&lt;/a&gt;, where he utilized body poses as an intermediate representation to recognize pedestrian’s actions. For his thesis, he is studying self-/semi-supervised methods for object detection in aerial images.&lt;/p&gt;
 
-&lt;p&gt;For the rest of my study, I will concentrate more on practice-oriented machine learning approaches, as well as their deployment, so that we could benefit from them in real life.
-You can find my latest resume &lt;a href=&#34;files/Resume_Weijiang_Xiong.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
-Hoping to find master thesis, internships and relevant jobs!&lt;/p&gt;
+&lt;p&gt;His academic path has made him realize the gap between academic state-of-the-art and down-to-the-ground applications, and stimulated his eager for gaining insights into the deployment problem of deep learning methods. His latest resume could be found &lt;a href=&#34;files/Resume_Weijiang_Xiong.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and here are the combined &lt;a href=&#34;files/slides.pptx&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt; for his past projects.&lt;/p&gt;
 </description>
     </item>
     

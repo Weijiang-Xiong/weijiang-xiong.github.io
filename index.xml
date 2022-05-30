@@ -5,12 +5,21 @@
     <link>https://weijiang-xiong.github.io/</link>
       <atom:link href="https://weijiang-xiong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Weijiang Xiong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 13:46:18 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 13:46:18 +0200</lastBuildDate>
     <image>
       <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
       <title>Weijiang Xiong</title>
       <link>https://weijiang-xiong.github.io/</link>
     </image>
+    
+    <item>
+      <title>Action recognition with poses</title>
+      <link>https://weijiang-xiong.github.io/project/pose-action-recognition/</link>
+      <pubDate>Tue, 01 Feb 2022 13:46:18 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/project/pose-action-recognition/</guid>
+      <description>&lt;p&gt;Yeah!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Normalizing Flows</title>
@@ -190,7 +199,7 @@ Besides, I reformed the collecting layer by adding a counting function, so that 
     <item>
       <title>News</title>
       <link>https://weijiang-xiong.github.io/news/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0200</pubDate>
       <guid>https://weijiang-xiong.github.io/news/</guid>
       <description>
 

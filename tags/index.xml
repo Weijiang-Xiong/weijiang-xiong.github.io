@@ -5,12 +5,20 @@
     <link>https://weijiang-xiong.github.io/tags/</link>
       <atom:link href="https://weijiang-xiong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 13:46:18 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 13:46:18 +0200</lastBuildDate>
     <image>
       <url>https://weijiang-xiong.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://weijiang-xiong.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Perception</title>
+      <link>https://weijiang-xiong.github.io/tags/perception/</link>
+      <pubDate>Tue, 01 Feb 2022 13:46:18 +0200</pubDate>
+      <guid>https://weijiang-xiong.github.io/tags/perception/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning</title>
@@ -25,14 +33,6 @@
       <link>https://weijiang-xiong.github.io/tags/robotic/</link>
       <pubDate>Wed, 20 Jan 2021 13:46:01 +0200</pubDate>
       <guid>https://weijiang-xiong.github.io/tags/robotic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perception</title>
-      <link>https://weijiang-xiong.github.io/tags/perception/</link>
-      <pubDate>Sat, 05 Sep 2020 20:58:04 +0800</pubDate>
-      <guid>https://weijiang-xiong.github.io/tags/perception/</guid>
       <description></description>
     </item>
     
