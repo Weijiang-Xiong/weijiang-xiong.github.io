@@ -17,7 +17,9 @@
       <link>https://weijiang-xiong.github.io/project/pose-action-recognition/</link>
       <pubDate>Tue, 01 Feb 2022 13:46:18 +0200</pubDate>
       <guid>https://weijiang-xiong.github.io/project/pose-action-recognition/</guid>
-      <description>&lt;p&gt;Yeah!&lt;/p&gt;
+      <description>&lt;p&gt;Self-driving cars and delivery robots are set to shape the future of transportation, but they still have to learn how to co-exist with humans in close proximity. Autonomous systems need to detect pedestrians and understand the meaning of their actions before making appropriate decisions in response. Action recognition is therefore an essential task for transportation applications, and yet very challenging, as there is no control over the distances of pedestrians or the real-world variations like lighting, weather, and occlusions.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we focus on the action recognition task in the context of transportation applications and deal with real-world variations and challenging scenarios by representing humans through their 2D poses.&lt;/p&gt;
 </description>
     </item>
     
